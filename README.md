@@ -2,7 +2,7 @@
 
 # Node.js Server for Innovative Navigation
 
-This repository contains the Node.js Server setup that powers the innovative web navigation approach leveraging 404 error pages, as discussed in the [corresponding frontend repository](LINK-TO-OTHER-GITHUB-REPO).
+This repository contains the Node.js Server setup that powers the innovative web navigation approach leveraging 404 error pages, as discussed in the [corresponding frontend repository](https://github.com/Spooksan/html).
 
 ## Overview
 
